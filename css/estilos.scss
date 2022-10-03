@@ -567,10 +567,9 @@ main {
                         position: relative;
                         max-width: 400px;
                         & img{
+                            width: 100%;
                             width: -webkit-fill-available;
-                            width: -moz-fill-available;
-                            width: -ms-fill-available;
-                            width: -o-fill-available;
+                            width: -moz-available;
                         }
                     }
                 }

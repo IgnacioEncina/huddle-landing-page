@@ -530,10 +530,9 @@ main {
     max-width: 400px;
   }
   .section2-container-item-content-img img {
+    width: 100%;
     width: -webkit-fill-available;
-    width: -moz-fill-available;
-    width: -ms-fill-available;
-    width: -o-fill-available;
+    width: -moz-available;
   }
   .section2-container-item .flowing {
     display: flex;
