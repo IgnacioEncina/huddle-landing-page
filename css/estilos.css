@@ -119,10 +119,9 @@ main {
   max-width: 800px;
 }
 .header-hero-right img {
+  width: 100%;
   width: -webkit-fill-available;
-  width: -moz-fill-available;
-  width: -ms-fill-available;
-  width: -o-fill-available;
+  width: -moz-available;
 }
 
 .section2 {
@@ -180,10 +179,9 @@ main {
   max-width: 500px;
 }
 .section2-container-item-content-img img {
+  width: 100%;
   width: -webkit-fill-available;
-  width: -moz-fill-available;
-  width: -ms-fill-available;
-  width: -o-fill-available;
+  width: -moz-available;
 }
 .section2-container-item .flowing {
   display: flex;
@@ -463,10 +461,9 @@ main {
     max-width: 500px;
   }
   .header-hero-right img {
+    width: 100%;
     width: -webkit-fill-available;
-    width: -moz-fill-available;
-    width: -ms-fill-available;
-    width: -o-fill-available;
+    width: -moz-available;
   }
   .section2 {
     position: relative;
