@@ -134,6 +134,9 @@ main {
             max-width: 800px;
             & img{
                 width: -webkit-fill-available;
+                width: -moz-fill-available;
+                width: -ms-fill-available;
+                width: -o-fill-available;
             }
         }
     }
@@ -194,6 +197,9 @@ main {
                     max-width: 500px;
                     & img{
                         width: -webkit-fill-available;
+                        width: -moz-fill-available;
+                        width: -ms-fill-available;
+                        width: -o-fill-available;
                     }
                 }
             }
@@ -492,6 +498,9 @@ main {
                 max-width: 500px;
                 & img{
                     width: -webkit-fill-available;
+                    width: -moz-fill-available;
+                    width: -ms-fill-available;
+                    width: -o-fill-available;
                 }
             }
         }
@@ -559,6 +568,9 @@ main {
                         max-width: 400px;
                         & img{
                             width: -webkit-fill-available;
+                            width: -moz-fill-available;
+                            width: -ms-fill-available;
+                            width: -o-fill-available;
                         }
                     }
                 }
